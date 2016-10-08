@@ -601,10 +601,10 @@ header a:hover {
   text-decoration: underline;
 }
 header h1 {
-  color: #1d9cf7;
+  color: #55b5f9;
   font-family: 'Open Sans', sans-serif;
   font-size: 4.5rem;
-  font-weight: 400;
+  font-weight: 200;
   letter-spacing: -1px;
   text-shadow: 0 1px 6px rgba(0,0,0,0.5);
 }
@@ -1092,7 +1092,7 @@ h4,
 h5,
 h6 {
   font-family: 'Open Sans', sans-serif;
-  font-weight: 700;
+  font-weight: 900;
   line-height: 1;
   margin-top: 0;
   margin-bottom: 20px;
