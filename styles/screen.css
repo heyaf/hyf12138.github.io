@@ -543,11 +543,11 @@ body {
   flex-direction: column;
   font-family: 'Droid Serif', Georgia, serif;
   font-size: 1.62rem;
-  font-weight: 400;
+  font-weight: 200;
   line-height: 1.6em;
 }
 a {
-  color: #141414;
+  color: #ff424f;
   text-decoration: underline;
 }
 a:hover {
@@ -618,10 +618,10 @@ header img {
   width: auto;
 }
 header p {
-  color: #fafafa;
+  color: #ffe83d;
   font-family: 'Droid Serif', Georgia, serif;
   font-size: 1.62rem;
-  font-weight: 400;
+  font-weight: 200;
   letter-spacing: 0;
   margin: 0;
   text-shadow: 0 1px 3px rgba(0,0,0,0.35);
@@ -703,7 +703,7 @@ main .page-title {
   font-family: 'Droid Serif', Georgia, serif;
   font-size: 1.62rem;
   font-style: italic;
-  font-weight: 400;
+  font-weight: 200;
   margin: 0;
   padding-bottom: 16px;
   text-align: center;
@@ -712,7 +712,7 @@ main .post-meta {
   color: #a4a4a4;
   display: inline-block;
   font-family: 'Droid Serif', Georgia, serif;
-  font-weight: 400;
+  font-weight: 200;
   font-size: 1.62rem;
   margin: 0;
 }
@@ -1193,7 +1193,7 @@ tt {
   color: #fafafa;
   font-family: 'Fira Mono', monospace, sans-serif;
   font-size: 0.85em;
-  font-weight: 400;
+  font-weight: 200;
   padding: 1px 3px;
   white-space: pre-wrap;
 }
@@ -1207,7 +1207,7 @@ pre {
   color: #fafafa;
   font-family: 'Fira Mono', monospace, sans-serif;
   font-size: 0.9em;
-  font-weight: 400;
+  font-weight: 200;
   margin: 1.6em 0;
   overflow: auto;
   padding: 10px;
